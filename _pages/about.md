@@ -1,4 +1,4 @@
- ---
+---
 permalink: /
 title: "About"
 excerpt: "About me"
@@ -10,5 +10,5 @@ redirect_from:
 
 {% include base_path %}
 
-你好，我是李鸣翔。一个研究僧。。
+Hi! 我是李鸣翔，一个普通研究生。
 

@@ -10,5 +10,5 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! 我是李鸣翔，一个普通研究生。
+我是李鸣翔，一个普通研究僧。
 

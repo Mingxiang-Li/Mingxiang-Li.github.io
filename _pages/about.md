@@ -1,19 +1,14 @@
  ---
 permalink: /
-title: "写着玩"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - "/wordpress/"
+  - "/wordpress/index.html"
 ---
 
-wait.
-wait
-======
-wait
+{% include base_path %}
 
-wair
-------
-只因 
+你好，我是李鸣翔。一个研究僧。。
 

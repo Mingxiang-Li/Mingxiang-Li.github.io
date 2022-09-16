@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "MingxiangLi(李鸣翔)"
-  avatar           : images/profile.png
+  avatar           : "imaages/profile.png"
   bio              : "take a nap"
   location         : "China"
   employer         :

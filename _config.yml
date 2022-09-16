@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "MingxiangLi"
+title                    : "Mingxiang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingxiang"
+  name             : "Mingxiang Li（李鸣翔）"
   avatar           : "profile.png"
   bio              : "take a nap"
   location         : "China"

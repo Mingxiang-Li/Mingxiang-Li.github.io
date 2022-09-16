@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "适度科研与可持续性摸鱼"
+venue: "加里顿大学, 摸鱼系"
+date: 2022-9-17
+location: "jining, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+八小时的睡眠带来的收益无法抵消bug带来的损失厌恶。
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

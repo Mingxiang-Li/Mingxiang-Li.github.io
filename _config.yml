@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  生活:
+  daily:
     output: true
     permalink: /:collection/:path/
   python:
@@ -259,10 +259,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _生活
+  # _daily
   - scope:
       path: ""
-      type: 生活
+      type: daily
     values:
       layout: single
       author_profile: true

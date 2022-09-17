@@ -1,11 +1,14 @@
 # main links links
 main:
-  - title: "python"
-    url: /python/
+  - title: "生活"
+    url: /生活/
     
   - title: "Publications"
     url: /publications/
-
+  
+  - title: "python"
+    url: /python/
+  
   - title: "Talks"
     url: /talks/    
 

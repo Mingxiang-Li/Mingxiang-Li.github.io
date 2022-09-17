@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "生活"
-    url: /生活/
+    url: /daily/
     
   - title: "Publications"
     url: /publications/

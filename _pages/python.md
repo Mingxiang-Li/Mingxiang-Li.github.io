@@ -11,6 +11,6 @@ author_profile: true
 ### gaze
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.python reversed %}
   {% include archive-single.html %}
 {% endfor %}

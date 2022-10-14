@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Mingxiang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Mingxiang Li"
+description              : &description "O(∩_∩)O"
 url                      : https://Mingxiang-Li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mingxiang-Li/Mingxiang-Li.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mingxiang Li（李鸣翔）"
   avatar           : "profile.png"
-  bio              : "take a nap"
+  bio              : "规律作息，快乐科研"
   location         : "China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed"
